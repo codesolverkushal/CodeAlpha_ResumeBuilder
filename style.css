@@ -1,0 +1,37 @@
+body{
+    background-color: #dec7db;
+}
+.background{
+    background-color: rgb(191, 224, 224);
+
+}
+/* Button color on hover */
+
+.color
+{
+    background-color: rgb(0, 255, 47);
+}
+#cv-form{
+    /* display: none; */
+}
+#cv-template{
+    display: none;
+}
+.my-image{
+    border: 1px solid black;
+    border-radius: 61%;
+    width: 158px;
+    margin-top: 26px;
+    height: 186px;
+}
+
+.kushal{
+    background-color: rgb(205, 198, 160);
+}
+
+.specification{
+margin-left: 433px;
+font-size: 24px;
+font-weight: bold;
+}
+
